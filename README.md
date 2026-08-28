@@ -270,5 +270,4 @@ Verify that MongoDB is running and that `MONGODB_URI` points to the correct data
 
 
 
-#   I r s h a d a l i  
- 
+#
