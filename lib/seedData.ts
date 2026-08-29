@@ -5,8 +5,10 @@
 export const SEED_DATA = {
     generalInfo: {
         email: 'irshadirshad.100100@gmail.com',
-        emailSubject: "Let's collaborate on a project",
+        emailSubject: 'Wants to Build a Scalable Application',
         emailBody: 'Hi irshadali313, I am reaching out to you because...',
+        oldPortfolio: '',
+        upworkProfile: '',
         developerTitle: 'FULLSTACK\nDEVELOPER',
         firstName: 'Irshad Ali',
         fullName: 'Mohammad Irshad Ali',
