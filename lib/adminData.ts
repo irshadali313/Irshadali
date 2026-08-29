@@ -74,7 +74,7 @@ export interface ICertificate {
 
 // ── Default Values (used for initial render before API responds) ──────────────
 
-export const defaultGeneralInfo: IGeneralInfo = SEED_DATA.generalInfo;
+// export const defaultGeneralInfo: IGeneralInfo = SEED_DATA.generalInfo;
 
 export const defaultSocialLinks: ISocialLink[] = SEED_DATA.socialLinks;
 
